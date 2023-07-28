@@ -1,22 +1,23 @@
 {
   "name": "forkify",
   "version": "1.0.0",
-  "description": "recipe app",
-  "default": "index.js",
+  "description": "Recipe application",
+  "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
   },
-  "author": "Tush",
+  "author": "Aggrey Wafula",
   "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.9.3",
     "parcel": "^2.9.3",
-    "process": "^0.11.10"
+    "process": "^0.11.10",
+    "sass": "^1.26.10"
   },
   "dependencies": {
-    "core-js": "^3.31.1",
+    "core-js": "^3.32.0",
     "fractional": "^1.0.0",
-    "regenerator-runtime": "^0.13.11"
+    "regenerator-runtime": "^0.13.7"
   }
 }
