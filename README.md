@@ -21,8 +21,10 @@
 
 # Sample Of Website <a name="Sample-Of-Website"></a>
 
-![alt text](./sample/1.png)
-![alt text](./sample/2.png)
+![recipe1](https://github.com/tuwafula/forkify-recipe-app/assets/84623103/f69b3a69-7613-426e-8a09-f1e344f83130)
+
+![recipe2](https://github.com/tuwafula/forkify-recipe-app/assets/84623103/91d0d489-64f4-4f04-980d-754fd20348da)
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
